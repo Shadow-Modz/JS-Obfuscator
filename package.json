@@ -1,0 +1,25 @@
+{
+  "name": "JS-Obfuscator",
+  "version": "1.0.0",
+  "description": "A high-level obfuscation tool for JavaScript code.",
+  "main": "Obfuscator.js",
+  "scripts": {
+    "start": "node Obfuscator"
+  },
+  "keywords": [
+    "obfuscator",
+    "javascript",
+    "tools"
+  ],
+  "author": "Shadow Byte Development",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.2",
+    "javascript-obfuscator": "^4.1.1",
+    "js-yaml": "^4.1.0",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10"
+  }
+}
